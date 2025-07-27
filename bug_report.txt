@@ -1,2 +1,5 @@
 bug_report
 Main window doesn't open in Safari
+
+bug_report_2
+Login with users credentional doesn't work
